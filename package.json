@@ -1,0 +1,24 @@
+{
+  "name": "test-2",
+  "version": "1.0.0",
+  "description": "Rails app",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cassianotadaoyasumitsu/test-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cassianotadaoyasumitsu/test-2/issues"
+  },
+  "homepage": "https://github.com/cassianotadaoyasumitsu/test-2#readme"
+}
